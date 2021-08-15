@@ -14,4 +14,4 @@ def AutoClick(x, y, clicks, delay, tt):
         
 # Driver Code
 tt = int(input("ให้กดเองกี่วินาที: " ))
-AutoClick(450, 530, 21, 0.05, tt)
+AutoClick(450, 530, 12, 0.4, tt)
